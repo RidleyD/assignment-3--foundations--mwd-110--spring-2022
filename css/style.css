@@ -82,7 +82,7 @@ p {
   display: block;
 }
 
-.page1 {
+.page-one {
   font-family: 'Roboto', sans-serif;
   font-style: italic;
   text-align: center;
@@ -91,7 +91,7 @@ p {
   color: #ff0000;
 }
 
-.copyr {
+.copy-right {
    color: white;
    font-size: 13px;
    text-align: center;
